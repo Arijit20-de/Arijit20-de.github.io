@@ -1,0 +1,20 @@
+title: "Arijit Mukherjee"
+description: >
+  PhD researcher working on ultrafast spectroscopy, photophysics,
+  and time-resolved optical techniques.
+url: "https://arijit20-de.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: default
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+author:
+  name: "Arijit Mukherjee"
+  bio: "Ultrafast spectroscopy | Photophysics | fs-TA | TRIR"
