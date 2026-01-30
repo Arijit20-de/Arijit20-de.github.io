@@ -1,1 +1,6 @@
-temporary
+---
+layout: none
+---
+
+Temporary file
+
